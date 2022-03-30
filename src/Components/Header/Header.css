@@ -1,0 +1,13 @@
+.header__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    width: 100%
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
